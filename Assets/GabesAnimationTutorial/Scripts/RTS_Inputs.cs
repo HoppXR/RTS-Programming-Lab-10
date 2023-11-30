@@ -97,7 +97,7 @@ public partial class @RTS_Inputs: IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""195885e7-0ffb-4a7e-9ee0-a85a72c1aae2"",
-                    ""path"": ""<Mouse>/leftButton"",
+                    ""path"": ""<Mouse>/rightButton"",
                     ""interactions"": ""Tap"",
                     ""processors"": """",
                     ""groups"": """",
